@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="270" viewBox="0 0 1040 270" role="img">
+<title>Investment decisions under uncertain reserves</title>
+<desc>Original coursework model, 2021; documentation and reserve-prior check, 2026.</desc>
+<rect width="1040" height="270" rx="16" fill="#f3f6fb"/>
+<style>text{font-family:Arial,Helvetica,sans-serif} .title{font-size:23px;font-weight:700;fill:#17304d}.sub{font-size:14px;fill:#51657c}.name{font-size:16px;font-weight:700;fill:#17304d}.detail{font-size:13px;fill:#51657c}.num{font-size:12px;fill:#1765ba;font-weight:700}</style>
+<text x="28" y="39" class="title">Investment decisions under uncertain reserves</text>
+<text x="28" y="65" class="sub">Original coursework model, 2021; documentation and reserve-prior check, 2026.</text>
+<rect x="28" y="92" width="232" height="117" rx="9" fill="#fff" stroke="#d6e1ee"/>
+<text x="43" y="115" class="num">01</text>
+<text x="43" y="140" class="name">Geological prior</text>
+<text x="43" y="164" class="detail">Success probability</text>
+<text x="43" y="185" class="detail">Lognormal reserve size</text>
+<path d="M263 151h12m-5-5 5 5-5 5" stroke="#6a86a8" stroke-width="1.6" fill="none"/>
+<rect x="278" y="92" width="232" height="117" rx="9" fill="#fff" stroke="#d6e1ee"/>
+<text x="293" y="115" class="num">02</text>
+<text x="293" y="140" class="name">Exploration</text>
+<text x="293" y="164" class="detail">Reveal reserve information</text>
+<text x="293" y="185" class="detail">Schedule constrained work</text>
+<path d="M513 151h12m-5-5 5 5-5 5" stroke="#6a86a8" stroke-width="1.6" fill="none"/>
+<rect x="528" y="92" width="232" height="117" rx="9" fill="#fff" stroke="#d6e1ee"/>
+<text x="543" y="115" class="num">03</text>
+<text x="543" y="140" class="name">Policy comparison</text>
+<text x="543" y="164" class="detail">Trucks / pipeline / stop</text>
+<text x="543" y="185" class="detail">Compare candidate dates</text>
+<path d="M763 151h12m-5-5 5 5-5 5" stroke="#6a86a8" stroke-width="1.6" fill="none"/>
+<rect x="778" y="92" width="232" height="117" rx="9" fill="#fff" stroke="#d6e1ee"/>
+<text x="793" y="115" class="num">04</text>
+<text x="793" y="140" class="name">Economic outcome</text>
+<text x="793" y="164" class="detail">Costs and cash flows</text>
+<text x="793" y="185" class="detail">Discounted project value</text>
+<text x="28" y="244" class="sub">The public checker validates reserve sampling; it does not certify the archived policy search.</text>
+</svg>
